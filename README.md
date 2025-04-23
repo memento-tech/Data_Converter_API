@@ -1,6 +1,5 @@
-# CSV to XML Converter API
 
-## Table of content
+### Table of content
 - [Overview](#overview)
 - [Core functionality](#core-functionality)
 - [UML Class Diagram](#uml-class-diagram)

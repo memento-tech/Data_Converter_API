@@ -1,11 +1,11 @@
 
-### Table of content
-- [Overview](#overview)
-- [Core functionality](#core-functionality)
-- [UML Class Diagram](#uml-class-diagram)
-- [Running Instructions](#running-instructions)
-  - [Desktop App](#desktop-app)
-  - [Client-Server Model](#client-server-model)
+### Table of Content
+- [1. Overview](#overview)
+- [2. Core functionality](#core-functionality)
+- [4. UML Class Diagram](#uml-class-diagram)
+- [3. Running Instructions](#running-instructions)
+  - [3.1 Desktop App](#desktop-app)
+  - [3.2 Client-Server Model](#client-server-model)
 
 ## **Overview**
 
